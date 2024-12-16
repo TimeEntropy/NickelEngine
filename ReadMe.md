@@ -1,3 +1,7 @@
+This project will completely rewrite!
+
+此工程2025年将会完全重写！请勿PR
+
 # NickelEngine
 
 An opensource, data-oriented ECS game engine.
